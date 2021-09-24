@@ -4,7 +4,7 @@ I’m interested in drones, aviation, robotics and technology.
 
 I’m currently learning PX4, Ardupilot, OpenCV, ROS, Tensorflow and Airsim.
 
-I’m looking to collaborate on autonomous drones and computer vision projects.
+I’m looking to collaborate on autonomous drones, robotics and computer vision projects.
 
 email: slavoniaaviation@gmail.com
 
