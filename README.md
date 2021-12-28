@@ -8,7 +8,7 @@ I’m looking to collaborate on autonomous drones, robotics and computer vision 
 
 email: lukakozina6@gmail.com
 
-facebook: https://www.facebook.com/Slavonia-Aviation-and-Technology-144617004430481
+facebook: https://www.facebook.com/luka.kozina.9
 
 <!---
 lkozina1309/lkozina1309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
