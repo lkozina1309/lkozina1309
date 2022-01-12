@@ -10,6 +10,8 @@ linkedin: https://www.linkedin.com/in/lukakozina/
 
 facebook: https://www.facebook.com/luka.kozina.9
 
+My blog : https://lukakozina6.wixsite.com/cvlab
+
 <!---
 lkozina1309/lkozina1309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
