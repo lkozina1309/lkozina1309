@@ -1,6 +1,8 @@
-I'm an aeronautical engineer with passion for UAVs, their building and programming. I use ROS and Computer Vision techniques to improve autonomous features of my drones. I would like to find a company for cooperation in the fields of UAV, robotics and computer vision.
+I'm an aeronautical engineer with passion for UAVs, their building and programming. I use ROS and Artificial Intelligence to improve autonomous features of my drones. I would like to find a company for cooperation in the fields of UAV, robotics and computer vision. 
 
 Everyone is welcome to make suggestion about my projects, whether you suggest some improvements or just give some ideas what would be interesting. Feel free to contact me anytime.
+
+I believe that drones will become our everyday life combined with Cloud technology, Internet of Things and Artificial Intelligence.
 
 email: lukakozina6@gmail.com
 
